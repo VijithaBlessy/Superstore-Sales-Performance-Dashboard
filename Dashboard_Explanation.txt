@@ -1,0 +1,52 @@
+SUPERSTORE SALES PERFORMANCE DASHBOARD
+
+1. INTRODUCTION
+
+The Superstore Sales Performance Dashboard is created using Microsoft Power BI. It helps to analyze sales performance based on region, product category, and month.
+
+2. KEY PERFORMANCE INDICATORS
+
+Total Sales:
+Displays the overall sales revenue.
+
+Total Profit:
+Shows the total profit generated from sales.
+
+Total Quantity:
+Displays the total quantity of products sold.
+
+3. VISUALIZATIONS
+
+Sales by Region:
+This chart compares sales across four regions: West, East, Central, and South. It helps identify the highest-performing region.
+
+Sales by Category:
+This chart compares sales across Technology, Furniture, and Office Supplies categories. Technology has the highest sales.
+
+Monthly Sales Trend:
+This line chart shows sales variations over time and helps understand monthly sales performance.
+
+4. INTERACTIVE FILTERS
+
+Region Filter:
+Allows users to select a specific region.
+
+Category Filter:
+Allows users to select a specific product category.
+
+The charts and KPI cards update automatically when filters are selected.
+
+5. KEY INSIGHTS
+
+1. West region has the highest overall sales.
+2. Technology is the highest-selling category.
+3. Sales performance changes across different months.
+
+6. TOOLS USED
+
+Microsoft Power BI Desktop
+Sample Superstore Dataset
+
+7. CONCLUSION
+
+This dashboard provides a simple and interactive way to understand sales performance. It helps users compare regions, analyze product categories, and understand monthly sales trends.
